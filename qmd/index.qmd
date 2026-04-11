@@ -1,0 +1,19 @@
+# Preface {.unnumbered}
+
+This book serves as the comprehensive documentation of **TC-m6A** research. This covers theoretical frameworks, experimental methodologies, and computational analyses, and more. By consolidating these materials, I provide a transparent and holistic view of the research investigated throughout this project, which may not be included in the official publication.  
+
+Official publication regarding this work:
+[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.19.713046v1.full)
+
+
+# About the author {.unnumbered}
+
+## Affiliation {.unnumbered}
+
+<sup>1</sup> Department of Electrical and Computer Engineering, Swanson School of Engineering, University of Pittsburgh, Pittsburgh, PA, USA
+
+<sup>2</sup> Cancer Virology Program, UPMC Hillman Cancer Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA
+
+## Contact {.unnumbered}
+
+sumin.jo\@pitt.edu

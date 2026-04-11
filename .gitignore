@@ -1,3 +1,10 @@
 .env
-research.log/
 DailyBackup.sh
+
+research.log/
+qmd/.quarto/
+qmd/ResearchSourceBook/
+qmd/*_cache/
+qmd/*_files/
+qmd/site_libs/
+
