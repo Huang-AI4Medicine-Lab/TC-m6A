@@ -3,7 +3,7 @@
 This book serves as the comprehensive documentation of **TC-m6A** research. This covers theoretical frameworks, experimental methodologies, and computational analyses, and more. By consolidating these materials, I provide a transparent and holistic view of the research investigated throughout this project, which may not be included in the official publication.  
 
 Official publication regarding this work:
-[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.19.713046v1.full)
+[bioRxiv](https://doi.org/10.64898/2026.03.19.713046)
 
 
 # About the author {.unnumbered}
