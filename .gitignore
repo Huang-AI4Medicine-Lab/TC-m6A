@@ -1,0 +1,9 @@
+.env
+DailyBackup.sh
+SyncPublic.sh
+ResearchSourceBook/
+.quarto/
+*_cache/
+*_files/
+site_libs/
+*.qmds
